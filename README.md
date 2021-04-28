@@ -8,3 +8,5 @@ In "Build" folder you can find a working demo. Just download the folder and star
 
 In "Becastled" folder you can find a source project for Unity, with all assets in it. 
 
+# Youtube
+https://youtu.be/XNyfdNL5owo
